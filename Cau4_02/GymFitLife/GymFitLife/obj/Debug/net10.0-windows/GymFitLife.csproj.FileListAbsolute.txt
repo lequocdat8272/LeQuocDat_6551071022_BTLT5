@@ -1,0 +1,17 @@
+C:\Users\Rei\source\repos\GymFitLife\GymFitLife\bin\Debug\net10.0-windows\GymFitLife.exe
+C:\Users\Rei\source\repos\GymFitLife\GymFitLife\bin\Debug\net10.0-windows\GymFitLife.deps.json
+C:\Users\Rei\source\repos\GymFitLife\GymFitLife\bin\Debug\net10.0-windows\GymFitLife.runtimeconfig.json
+C:\Users\Rei\source\repos\GymFitLife\GymFitLife\bin\Debug\net10.0-windows\GymFitLife.dll
+C:\Users\Rei\source\repos\GymFitLife\GymFitLife\bin\Debug\net10.0-windows\GymFitLife.pdb
+C:\Users\Rei\source\repos\GymFitLife\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.Form1.resources
+C:\Users\Rei\source\repos\GymFitLife\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.csproj.GenerateResource.cache
+C:\Users\Rei\source\repos\GymFitLife\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rei\source\repos\GymFitLife\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.AssemblyInfoInputs.cache
+C:\Users\Rei\source\repos\GymFitLife\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.AssemblyInfo.cs
+C:\Users\Rei\source\repos\GymFitLife\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.csproj.CoreCompileInputs.cache
+C:\Users\Rei\source\repos\GymFitLife\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.dll
+C:\Users\Rei\source\repos\GymFitLife\GymFitLife\obj\Debug\net10.0-windows\refint\GymFitLife.dll
+C:\Users\Rei\source\repos\GymFitLife\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.pdb
+C:\Users\Rei\source\repos\GymFitLife\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.genruntimeconfig.cache
+C:\Users\Rei\source\repos\GymFitLife\GymFitLife\obj\Debug\net10.0-windows\ref\GymFitLife.dll
+C:\Users\Rei\source\repos\GymFitLife\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.csproj.Up2Date

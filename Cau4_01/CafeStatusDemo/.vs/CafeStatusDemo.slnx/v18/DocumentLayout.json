@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rei\\source\\repos\\CafeStatusDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B68F044-110F-4E69-9F2C-1BA3E11F62D2}|CafeStatusDemo\\CafeStatusDemo.csproj|c:\\users\\rei\\source\\repos\\cafestatusdemo\\cafestatusdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B68F044-110F-4E69-9F2C-1BA3E11F62D2}|CafeStatusDemo\\CafeStatusDemo.csproj|solutionrelative:cafestatusdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B68F044-110F-4E69-9F2C-1BA3E11F62D2}|CafeStatusDemo\\CafeStatusDemo.csproj|c:\\users\\rei\\source\\repos\\cafestatusdemo\\cafestatusdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B68F044-110F-4E69-9F2C-1BA3E11F62D2}|CafeStatusDemo\\CafeStatusDemo.csproj|solutionrelative:cafestatusdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B68F044-110F-4E69-9F2C-1BA3E11F62D2}|CafeStatusDemo\\CafeStatusDemo.csproj|c:\\users\\rei\\source\\repos\\cafestatusdemo\\cafestatusdemo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B68F044-110F-4E69-9F2C-1BA3E11F62D2}|CafeStatusDemo\\CafeStatusDemo.csproj|solutionrelative:cafestatusdemo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Rei\\source\\repos\\CafeStatusDemo\\CafeStatusDemo\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CafeStatusDemo\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Rei\\source\\repos\\CafeStatusDemo\\CafeStatusDemo\\Form1.Designer.cs",
+              "RelativeToolTip": "CafeStatusDemo\\Form1.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T07:04:33.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Rei\\source\\repos\\CafeStatusDemo\\CafeStatusDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "CafeStatusDemo\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rei\\source\\repos\\CafeStatusDemo\\CafeStatusDemo\\Form1.cs",
+              "RelativeToolTip": "CafeStatusDemo\\Form1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T06:55:26.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rei\\source\\repos\\CafeStatusDemo\\CafeStatusDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "CafeStatusDemo\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rei\\source\\repos\\CafeStatusDemo\\CafeStatusDemo\\Form1.cs [Design]",
+              "RelativeToolTip": "CafeStatusDemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T06:35:43.628Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

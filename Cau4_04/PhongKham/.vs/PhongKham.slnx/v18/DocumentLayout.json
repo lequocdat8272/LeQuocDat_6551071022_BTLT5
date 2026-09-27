@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rei\\Documents\\Hoc_Tap\\LTTQ\\LeQuocDat_6551071022_BTLT5\\Cau04_4\\PhongKham\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{427FC79B-F734-B2E9-42CD-BAE9C61E944E}|PhongKham\\PhongKham.csproj|c:\\users\\rei\\documents\\hoc_tap\\lttq\\lequocdat_6551071022_btlt5\\cau04_4\\phongkham\\phongkham\\frmbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427FC79B-F734-B2E9-42CD-BAE9C61E944E}|PhongKham\\PhongKham.csproj|solutionrelative:phongkham\\frmbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427FC79B-F734-B2E9-42CD-BAE9C61E944E}|PhongKham\\PhongKham.csproj|c:\\users\\rei\\documents\\hoc_tap\\lttq\\lequocdat_6551071022_btlt5\\cau04_4\\phongkham\\phongkham\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427FC79B-F734-B2E9-42CD-BAE9C61E944E}|PhongKham\\PhongKham.csproj|solutionrelative:phongkham\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBenhNhan.cs",
+              "DocumentMoniker": "C:\\Users\\Rei\\Documents\\Hoc_Tap\\LTTQ\\LeQuocDat_6551071022_BTLT5\\Cau04_4\\PhongKham\\PhongKham\\frmBenhNhan.cs",
+              "RelativeDocumentMoniker": "PhongKham\\frmBenhNhan.cs",
+              "ToolTip": "C:\\Users\\Rei\\Documents\\Hoc_Tap\\LTTQ\\LeQuocDat_6551071022_BTLT5\\Cau04_4\\PhongKham\\PhongKham\\frmBenhNhan.cs",
+              "RelativeToolTip": "PhongKham\\frmBenhNhan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:55:04.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rei\\Documents\\Hoc_Tap\\LTTQ\\LeQuocDat_6551071022_BTLT5\\Cau04_4\\PhongKham\\PhongKham\\Program.cs",
+              "RelativeDocumentMoniker": "PhongKham\\Program.cs",
+              "ToolTip": "C:\\Users\\Rei\\Documents\\Hoc_Tap\\LTTQ\\LeQuocDat_6551071022_BTLT5\\Cau04_4\\PhongKham\\PhongKham\\Program.cs",
+              "RelativeToolTip": "PhongKham\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:54:46.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

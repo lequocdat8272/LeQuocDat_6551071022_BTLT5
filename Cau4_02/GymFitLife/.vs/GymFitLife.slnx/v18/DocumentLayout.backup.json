@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rei\\source\\repos\\GymFitLife\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7663E13-AAB0-45F3-9856-CE61FB7CE932}|GymFitLife\\GymFitLife.csproj|c:\\users\\rei\\source\\repos\\gymfitlife\\gymfitlife\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7663E13-AAB0-45F3-9856-CE61FB7CE932}|GymFitLife\\GymFitLife.csproj|solutionrelative:gymfitlife\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7663E13-AAB0-45F3-9856-CE61FB7CE932}|GymFitLife\\GymFitLife.csproj|c:\\users\\rei\\source\\repos\\gymfitlife\\gymfitlife\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7663E13-AAB0-45F3-9856-CE61FB7CE932}|GymFitLife\\GymFitLife.csproj|solutionrelative:gymfitlife\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Rei\\source\\repos\\GymFitLife\\GymFitLife\\Form1.cs",
+              "RelativeDocumentMoniker": "GymFitLife\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rei\\source\\repos\\GymFitLife\\GymFitLife\\Form1.cs",
+              "RelativeToolTip": "GymFitLife\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T07:35:12.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rei\\source\\repos\\GymFitLife\\GymFitLife\\Form1.cs",
+              "RelativeDocumentMoniker": "GymFitLife\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rei\\source\\repos\\GymFitLife\\GymFitLife\\Form1.cs [Design]",
+              "RelativeToolTip": "GymFitLife\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T07:24:44.238Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

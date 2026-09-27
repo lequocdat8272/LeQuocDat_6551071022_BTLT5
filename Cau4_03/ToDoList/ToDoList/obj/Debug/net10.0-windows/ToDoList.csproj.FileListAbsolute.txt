@@ -1,0 +1,17 @@
+C:\Users\Rei\source\repos\ToDoList\ToDoList\bin\Debug\net10.0-windows\ToDoList.exe
+C:\Users\Rei\source\repos\ToDoList\ToDoList\bin\Debug\net10.0-windows\ToDoList.deps.json
+C:\Users\Rei\source\repos\ToDoList\ToDoList\bin\Debug\net10.0-windows\ToDoList.runtimeconfig.json
+C:\Users\Rei\source\repos\ToDoList\ToDoList\bin\Debug\net10.0-windows\ToDoList.dll
+C:\Users\Rei\source\repos\ToDoList\ToDoList\bin\Debug\net10.0-windows\ToDoList.pdb
+C:\Users\Rei\source\repos\ToDoList\ToDoList\obj\Debug\net10.0-windows\ToDoList.Form1.resources
+C:\Users\Rei\source\repos\ToDoList\ToDoList\obj\Debug\net10.0-windows\ToDoList.csproj.GenerateResource.cache
+C:\Users\Rei\source\repos\ToDoList\ToDoList\obj\Debug\net10.0-windows\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rei\source\repos\ToDoList\ToDoList\obj\Debug\net10.0-windows\ToDoList.AssemblyInfoInputs.cache
+C:\Users\Rei\source\repos\ToDoList\ToDoList\obj\Debug\net10.0-windows\ToDoList.AssemblyInfo.cs
+C:\Users\Rei\source\repos\ToDoList\ToDoList\obj\Debug\net10.0-windows\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Rei\source\repos\ToDoList\ToDoList\obj\Debug\net10.0-windows\ToDoList.dll
+C:\Users\Rei\source\repos\ToDoList\ToDoList\obj\Debug\net10.0-windows\refint\ToDoList.dll
+C:\Users\Rei\source\repos\ToDoList\ToDoList\obj\Debug\net10.0-windows\ToDoList.pdb
+C:\Users\Rei\source\repos\ToDoList\ToDoList\obj\Debug\net10.0-windows\ToDoList.genruntimeconfig.cache
+C:\Users\Rei\source\repos\ToDoList\ToDoList\obj\Debug\net10.0-windows\ref\ToDoList.dll
+C:\Users\Rei\source\repos\ToDoList\ToDoList\obj\Debug\net10.0-windows\ToDoList.csproj.Up2Date
